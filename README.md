@@ -3,7 +3,6 @@
 
 # EX 7 : THREE DIMENSIONAL TRANSFORMATIONS
 ## AIM :
- 
 To implement the various transformations on three dimensional odjects using a c coding.
 
 ## EQUIPMENT REQUIRED:
@@ -11,7 +10,6 @@ To implement the various transformations on three dimensional odjects using a c 
 ●	Software: C Compiler
 
 ## ALGORITHM :
-
 Step 1 : Start.
 
 Step 2 : Draw an image with default parameters.
@@ -155,7 +153,6 @@ closegraph();
 
 
 ![Screenshot 2025-05-07 170300](https://github.com/user-attachments/assets/a79b426f-2569-4a0c-8610-6f306e2bec73)
-
 
 ![Screenshot 2025-05-07 170306](https://github.com/user-attachments/assets/74312470-8c6f-44e6-9b6f-87912679da2d)
 
