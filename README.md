@@ -148,9 +148,7 @@ closegraph();
 
 ![Screenshot 2025-05-07 170244](https://github.com/user-attachments/assets/8f3e7054-8a5d-497e-8213-e92ce2859b3b)
 
-
 ![Screenshot 2025-05-07 170253](https://github.com/user-attachments/assets/a85f82d7-5ed5-4c46-a560-7a643c104289)
-
 
 ![Screenshot 2025-05-07 170300](https://github.com/user-attachments/assets/a79b426f-2569-4a0c-8610-6f306e2bec73)
 
