@@ -160,5 +160,4 @@ closegraph();
 ![Screenshot 2025-05-07 170306](https://github.com/user-attachments/assets/74312470-8c6f-44e6-9b6f-87912679da2d)
 
 ## Result :
-
 Thus, the C program for performing three-dimensional transformations — including translation, scaling, and rotation about the X, Y, and Z axes — was successfully implemented and the output was verified through graphical representation.
